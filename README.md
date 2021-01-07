@@ -8,6 +8,8 @@ The website also needs to be responsive with iphone or other devices.
 
 <img width="937" alt="Screenshot 2021-01-06 174607" src="https://user-images.githubusercontent.com/74078719/103843608-00241280-504d-11eb-9429-f0ab01063c66.png">
 
+<img width="932" alt="Screenshot 2021-01-06 174653" src="https://user-images.githubusercontent.com/74078719/103843835-5ee98c00-504d-11eb-9b49-3c779634ca04.png">
+
 Credits 
 game tester https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.businessinsider.com%2Fwhat-its-like-to-be-a-video-game-tester-2015-6&psig=AOvVaw1acaP80Cmt9lj5atWPCLsj&ust=1610069774111000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiai7nXiO4CFQAAAAAdAAAAABAD
 spiderman poster https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.joblo.com%2Fmovie-posters%2F2019%2Fspider-man-far-from-home%2Fimage-35488&psig=AOvVaw0OhoRq40p0mLgkH6aGL-5H&ust=1610069710219000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCa25rXiO4CFQAAAAAdAAAAABAE
